@@ -31,9 +31,13 @@ Please execute the code within a virtual environment where the requirements have
 python main.py
 ```
 
-### References
+
+
+### 📄 References
 - we followed the algorithm from the referenced paper from here -> <a href="https://www.ijeat.org/wp-content/uploads/papers/v8i5S/E10150585S19.pdf">Paper Link</a>
 ![image](https://github.com/signife/driver-drowsiness-detection/assets/87606589/e91af02b-27d9-42e4-a7bb-3ee9df2701da)
+
+
 
 
 ### 🛠️ Tech Stack
