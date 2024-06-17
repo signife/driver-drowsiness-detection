@@ -232,6 +232,6 @@ def webcam_detection(model, fps):
 if __name__ == "__main__":
     fps = get_webcam_fps()
     print(f"웹캠 프레임 수: {fps} FPS")
-    model_path = 'best.pt'  # 모델 파일 경로를 설정합니다.
+    model_path = 'best_2nd.pt'  # 모델 파일 경로를 설정합니다.
     model = load_model(model_path)
     webcam_detection(model, fps)
