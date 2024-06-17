@@ -3,12 +3,15 @@ A deep learning project to detect driver drowsiness using computer webcam. Featu
 
 
 ### 📝 Project Introduce
-- using Dataset in roboflow. you can also downloading in here -> ![Badge](https://universe.roboflow.com/karthik-madhvan/drowsiness-detection-xsriz)
+- using Dataset in roboflow. you can also downloading in here -> <a href="https://universe.roboflow.com/karthik-madhvan/drowsiness-detection-xsriz">Dataset Link</a>
 - 레포지토리 링크와 간단한 설명을 입력하면 마크다운으로 프로젝트를 소개하는 리드미 생성
 
-### 🛠️ 기술 스택
-![Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-![Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black)
+### 🛠️ Tech Stack
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![YOLOv5 Badge](https://img.shields.io/badge/YOLOv8-FFA500?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiklEQVR42mL8//8/AzUBEQNGJkU4DDXwzGcNQFAY1QGECQNEHjwZL8oMwk6FBOAjDlC7HBhU/gZPogR4gyYhBLVcAOxlAaVwDQTsUM1UPgyYYBmVwMlVsUMU1YKJVBkR2EFkXgACkABYQ/wcAaWI3gGAV6ADcVJcAhDmRBBwDAACRMIK3v5Dh0AAAAASUVORK5CYII=&logoColor=white)
+
 
 ### 👥 참여 팀원
 
