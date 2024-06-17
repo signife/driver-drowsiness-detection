@@ -4,16 +4,18 @@ A deep learning project to detect driver drowsiness using computer webcam. Featu
 
 ## 📝 Overview
 ### Execution Order
+
+
 -**Environment Setup**
 ```bash
 pip install -r requirements.txt
 ```
 -**Data Preparation** 
 
-using Dataset in roboflow. you can also downloading in here -> <a href="https://universe.roboflow.com/karthik-madhvan/drowsiness-detection-xsriz">Dataset Link</a>
+Using Dataset in roboflow. you can also downloading in here -> <a href="https://universe.roboflow.com/karthik-madhvan/drowsiness-detection-xsriz">Dataset Link</a>
 
 
-following below command prompt to proceed with training
+Following below command prompt to proceed with training
 ```bash
 yolo task=detect mode=train model=yolov8s.pt data={./data}/data.yaml epochs=100 imgsz=640
 ```
@@ -29,7 +31,9 @@ Please execute the code within a virtual environment where the requirements have
 python main.py
 ```
 
-
+### References
+- we followed the algorithm from the referenced paper from here -> <a href="https://www.ijeat.org/wp-content/uploads/papers/v8i5S/E10150585S19.pdf">Paper Link</a>
+![image](https://github.com/signife/driver-drowsiness-detection/assets/87606589/e91af02b-27d9-42e4-a7bb-3ee9df2701da)
 
 
 ### 🛠️ Tech Stack
