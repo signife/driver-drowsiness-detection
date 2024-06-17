@@ -13,7 +13,7 @@ pip install -r requirements.txt
 - following below command prompt to proceed with training
 ```bash
 yolo task=detect mode=train model=yolov8s.pt data={./data}/data.yaml epochs=100 imgsz=640
-
+'''
 ### 🛠️ Tech Stack
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
