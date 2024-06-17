@@ -6,26 +6,6 @@ A deep learning project to detect driver drowsiness using computer webcam. Featu
 <div class="dataset-link">
   - using Dataset in roboflow. you can also downloading in here -> <a href="https://universe.roboflow.com/karthik-madhvan/drowsiness-detection-xsriz">Dataset Link</a>
 </div>
-.dataset-link {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  margin-bottom: 10px;
-}
-
-.dataset-link a {
-  display: inline-block;
-  padding: 8px 12px;
-  background-color: #007BFF;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  transition: background-color 0.3s ease;
-}
-
-.dataset-link a:hover {
-  background-color: #0056b3;
-}
-
 - 레포지토리 링크와 간단한 설명을 입력하면 마크다운으로 프로젝트를 소개하는 리드미 생성
 
 ### 🛠️ Tech Stack
@@ -37,7 +17,7 @@ A deep learning project to detect driver drowsiness using computer webcam. Featu
 
 ### 👥 참여 팀원
 
-|  팀원 이름  |  맡은 기능   |
+|  팀원 이름  |  맡은 기능   |  맡은 기능   |
 |:----------:|:----------:|
 |    이서진    |  메인 페이지  |
 
