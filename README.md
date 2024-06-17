@@ -15,11 +15,11 @@ A deep learning project to detect driver drowsiness using computer webcam. Featu
 ![YOLOv8 Badge](https://img.shields.io/badge/YOLOv8-FFA500?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiklEQVR42mL8//8/AzUBEQNGJkU4DDXwzGcNQFAY1QGECQNEHjwZL8oMwk6FBOAjDlC7HBhU/gZPogR4gyYhBLVcAOxlAaVwDQTsUM1UPgyYYBmVwMlVsUMU1YKJVBkR2EFkXgACkABYQ/wcAaWI3gGAV6ADcVJcAhDmRBBwDAACRMIK3v5Dh0AAAAASUVORK5CYII=&logoColor=white)
 
 
-### 👥 참여 팀원
+### 👥 Teammates
 
-|  팀원 이름  |  맡은 기능   |  맡은 기능   |
+|  Name  |  github-links   |
 |:----------:|:----------:|
-|    이서진    |  메인 페이지  |
+|    ChangHo Jang    |  메인 페이지  |
 
 ### 📁 디렉토리 구조
 
